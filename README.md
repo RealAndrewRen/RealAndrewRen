@@ -10,6 +10,7 @@ I'm a rising junior at Boston College studying Computer Science and Math. I have
 Python • Java • C • JavaScript • Verilog 
 
 **Data Science:**
+
 Pandas • PyTorch • NumPy • TensorFlow • Jupyter Notebook  
 
 **Web Development:**  
