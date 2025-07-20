@@ -18,7 +18,7 @@ Node.js • HTML • CSS
 **Tools:**  
 Git • GitHub • Visual Studio • Vim • Google Colab • Jupyter Notebooks  
 
-**Misc.**
+**Misc.:**  
 Onshape (CAD) • REST APIs • Arduino
 
 ---
