@@ -57,7 +57,7 @@ A Python-based Discord bot for tracking homework assignments and sending automat
 - 🧠 **Effective Altruism AI Fellowship** – Discussing AI safety, alignment, and long-term impact  
 - 🧩 **TCG Club** – Trading card games, game mechanics, and community events  
 - 🕹 **Retro Gaming @ BC** – Exploring classic game design   
-- 🛠 **MakeBC** – Hosted CAD workshops and helped organize campus engineering events  
+- 📟 **MakeBC** – Hosted CAD workshops and helped organize campus engineering events  
 - 🌐 **Break Through Tech AI** – Machine learning coursework, career exploration, and mentorship  
 - 📜 **Philosophy** – Exploring logic, ethics, and technology’s social implications  
 - 🔐 **Blockchain & Crypto** – Interested in decentralized systems and cryptographic security  
