@@ -32,7 +32,7 @@ A price-conscious recipe builder powered by OpenAI's GPT API and Node.js. Users 
 A turn-based Discord card game that classifies messages into playable cards using Node.js and GPT, blending NLP with game mechanics.
 
 ### 📚 [Homeworker](https://github.com/RealAndrewRen/Homeworker) – *🏆 WHS CS Hackathon Winner*  
-A Python-based Discord bot for tracking homework assignments and sending automated deadline reminders—perfect for students.
+A Python-based Discord bot for tracking homework assignments and sending automated deadline reminders, perfect for students.
 
 ---
 
