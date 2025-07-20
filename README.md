@@ -37,6 +37,7 @@ I'm a rising junior at Boston College studying Computer Science and Math. I have
 ![Onshape](https://img.shields.io/badge/-Onshape-%23007DC5?style=flat-square&logo=onshape&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-%23000000?style=flat-square&logo=api&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-%2300979D?style=flat-square&logo=arduino&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-%23008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
