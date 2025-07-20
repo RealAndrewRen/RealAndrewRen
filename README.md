@@ -1,16 +1,25 @@
 # 👋 Hi, I'm Andrew Ren
 
-I'm a Computer Science and Math student at Boston College with a strong interest in artificial intelligence, systems programming, and how technology intersects with equity and education. I love building creative tools and exploring how machine learning and hardware can solve real-world problems.
+I'm a rising junior at Boston College studying Computer Science and Math. I have a strong interest in artificial intelligence, systems programming, and how technology intersects with equity and education. I love building creative tools and exploring how machine learning and hardware can solve real-world problems.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Tools:**  
-Java • Python • C • JavaScript • Verilog • HTML • CSS • Node.js • Pandas • PyTorch • REST APIs • Vim • Jupyter Notebook • Visual Studio • Onshape (CAD)
+**Languages:**  
+Python • Java • C • JavaScript • Verilog 
 
-**Other Skills:**  
-Spanish • Mandarin • Arduino • Git 
+**Data Science**
+Pandas • PyTorch • NumPy • TensorFlow • Jupyter Notebook  
+
+**Web Development:**  
+Node.js • HTML • CSS 
+
+**Tools:**  
+Git • GitHub • Visual Studio • Vim • Google Colab  
+
+**Misc.**
+• Onshape (CAD) • REST APIs • Arduino
 
 ---
 
@@ -49,7 +58,7 @@ A Python-based Discord bot for tracking homework assignments and sending automat
 - 🧩 **TCG Club** – Trading card games, game mechanics, and community events  
 - 🕹 **Retro Gaming @ BC** – Exploring classic game design   
 - 🛠 **MakeBC** – Hosted CAD workshops and helped organize campus engineering events  
-- 🤖 **Break Through Tech AI** – Machine learning coursework, career exploration, and mentorship  
+- 🌐 **Break Through Tech AI** – Machine learning coursework, career exploration, and mentorship  
 - 📜 **Philosophy** – Exploring logic, ethics, and technology’s social implications  
 - 🔐 **Blockchain & Crypto** – Interested in decentralized systems and cryptographic security  
 - 🎮 **Game Design** – Passionate about building interactive, meaningful player experiences  
