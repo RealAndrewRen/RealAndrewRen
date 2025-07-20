@@ -6,17 +6,17 @@ I'm a rising junior at Boston College studying Computer Science and Math. I have
 
 ## 🛠 Tech Stack
 
-**Languages:**  
+**Programming Languages:**  
 Python • Java • C • JavaScript • Verilog 
 
-**Data Science:**
-Pandas • PyTorch • NumPy • TensorFlow • Jupyter Notebook  
+**Libraries & Frameworks:**  
+scikit-learn • Pandas • NumPy • matplotlib • PyTorch • TensorFlow
 
 **Web Development:**  
 Node.js • HTML • CSS 
 
 **Tools:**  
-Git • GitHub • Visual Studio • Vim • Google Colab  
+Git • GitHub • Visual Studio • Vim • Google Colab • Jupyter Notebooks  
 
 **Misc.**
 Onshape (CAD) • REST APIs • Arduino
