@@ -9,7 +9,7 @@ I'm a rising junior at Boston College studying Computer Science and Math. I have
 **Languages:**  
 Python • Java • C • JavaScript • Verilog 
 
-**Data Science**
+**Data Science:**
 Pandas • PyTorch • NumPy • TensorFlow • Jupyter Notebook  
 
 **Web Development:**  
@@ -19,7 +19,7 @@ Node.js • HTML • CSS
 Git • GitHub • Visual Studio • Vim • Google Colab  
 
 **Misc.**
-• Onshape (CAD) • REST APIs • Arduino
+Onshape (CAD) • REST APIs • Arduino
 
 ---
 
