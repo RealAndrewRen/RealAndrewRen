@@ -46,7 +46,7 @@ I'm a rising junior at Boston College studying Computer Science and Math. I have
 ### 🃏 [Discard](https://github.com/RealAndrewRen/Discard) – *🏆 Beantown Bash Hackathon Winner*  
 A turn-based Discord card game that classifies messages into playable cards using Node.js and GPT, blending NLP with game mechanics.
 
-### 📚 [Homeworker](https://github.com/RealAndrewRen/Homeworker) – *🏆 WHS CS Hackathon Winner*  
+### 📚 [Homeworker](https://github.com/RealAndrewRen/Homeworker) – *🏆 WinTechathlon Winner*  
 A Python-based Discord bot for tracking homework assignments and sending automated deadline reminders, perfect for students.
 
 ### 🥘 [CheapChomps](https://github.com/RealAndrewRen/CheapChomps)  
