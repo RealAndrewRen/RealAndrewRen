@@ -26,16 +26,20 @@ I'm a rising junior at Boston College studying Computer Science and Math. I have
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-%2300D8FF?style=flat-square&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-%23000000?style=flat-square&logo=express&logoColor=white)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-%23019733?style=flat-square&logo=vim&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### 🔧 Miscellaneous
+![Azure](https://img.shields.io/badge/-Azure-%230072C6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Onshape](https://img.shields.io/badge/-Onshape-%23007DC5?style=flat-square&logo=onshape&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-%23000000?style=flat-square&logo=api&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-%2300979D?style=flat-square&logo=arduino&logoColor=white)
