@@ -10,7 +10,9 @@ I'm a rising junior at Boston College studying Computer Science and Math. I have
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=oracle&logoColor=white)
 ![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000)
-![Verilog](https://img.shields.io/badge/-Verilog-%23B71C1C?style=flat-square&logo=verilog&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-%2300758F?style=flat-square&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-%23E16737?style=flat-square&logo=Mathworks&logoColor=white)
 
 ### 📚 Libraries & Frameworks
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
