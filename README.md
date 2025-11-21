@@ -93,7 +93,7 @@ An experimental price-conscious recipe builder powered by OpenAI's GPT API and N
 
 ## 📫 Contact Me
 
-- 📧 Email: [renag@bc.edu](mailto:renag@bc.edu)  
+- 📧 Email: [renag@bc.edu](mailto:renag@bc.edu) | [therealandrewren@gmail.com](mailto:therealandrewren@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/andrewren7rtfy](https://linkedin.com/in/andrewren7rtfy)  
 
 ---
