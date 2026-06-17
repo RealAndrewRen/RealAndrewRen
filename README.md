@@ -50,7 +50,7 @@ I'm a rising junior at Boston College studying Computer Science and Math. I have
 ## 🚀 Key Projects
 
 ### 🥘 [Pennywise](https://github.com/RealAndrewRen/Pennywise)  
-An experimental price-conscious recipe builder powered by OpenAI's GPT API and Node.js. Designed to generate affordable meal plans from a user-defined budget using NLP. The project was discontinued before completion due to token limitations in the GPT API.
+A finance-focused conversational AI built by fine-tuning a GPT-style transformer on domain-specific instruction data. Features a reproducible supervised fine-tuning pipeline and delivers significantly improved financial guidance compared to the base model.
 
 ### 🃏 [Discard](https://github.com/RealAndrewRen/Discard) – *🏆 Beantown Bash Hackathon Winner*  
 A turn-based Discord card game that classifies messages into playable cards using Node.js and GPT, blending NLP with game mechanics.
