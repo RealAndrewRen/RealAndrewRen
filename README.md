@@ -49,14 +49,14 @@ I'm a rising junior at Boston College studying Computer Science and Math. I have
 
 ## 🚀 Key Projects
 
+### 🥘 [Pennywise]((https://github.com/RealAndrewRen/Pennywise)  
+An experimental price-conscious recipe builder powered by OpenAI's GPT API and Node.js. Designed to generate affordable meal plans from a user-defined budget using NLP. The project was discontinued before completion due to token limitations in the GPT API.
+
 ### 🃏 [Discard](https://github.com/RealAndrewRen/Discard) – *🏆 Beantown Bash Hackathon Winner*  
 A turn-based Discord card game that classifies messages into playable cards using Node.js and GPT, blending NLP with game mechanics.
 
 ### 📚 [Homeworker](https://github.com/RealAndrewRen/Homeworker) – *🏆 WinTechathlon Winner*  
 A Python-based Discord bot for tracking homework assignments and sending automated deadline reminders, perfect for students.
-
-### 🥘 [CheapChomps](https://github.com/RealAndrewRen/CheapChomps)  
-An experimental price-conscious recipe builder powered by OpenAI's GPT API and Node.js. Designed to generate affordable meal plans from a user-defined budget using NLP. The project was discontinued before completion due to token limitations in the GPT API.
 
 ---
 
