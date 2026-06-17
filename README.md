@@ -49,7 +49,7 @@ I'm a rising junior at Boston College studying Computer Science and Math. I have
 
 ## 🚀 Key Projects
 
-### 🥘 [Pennywise](https://github.com/RealAndrewRen/Pennywise)  
+### 💰 [Pennywise](https://github.com/RealAndrewRen/Pennywise)  
 A finance-focused conversational AI built by fine-tuning a GPT-style transformer on domain-specific instruction data. Features a reproducible supervised fine-tuning pipeline and delivers significantly improved financial guidance compared to the base model.
 
 ### 🃏 [Discard](https://github.com/RealAndrewRen/Discard) – *🏆 Beantown Bash Hackathon Winner*  
